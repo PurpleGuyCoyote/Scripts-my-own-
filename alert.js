@@ -1,1 +1,1 @@
-alert('XSS Level 6 Complete');
+print("alert('XSS');")
